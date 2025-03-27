@@ -1,10 +1,10 @@
 Place Of Infection,Location Name,First Human case reported,Number of human cases,Number of confirmed human cases,Number of outbreaks in Equids,Number of outbreaks in Birds
 AT112,Nordburgenland,2022-08-22,1,1,,1
-AT127,Wiener Umland/S¸dteil,2022-08-04,2,2,,
+AT127,Wiener Umland/S√ºdteil,2022-08-04,2,2,,
 AT130,Wien,2022-08-25,3,3,1,1
 DE300,Berlin,2022-08-02,4,4,,25
 DE406,Dahme-Spreewald,2022-08-29,1,1,1,
-DE40H,Teltow-Fl‰ming,2022-07-24,1,1,1,
+DE40H,Teltow-Fl√§ming,2022-07-24,1,1,1,
 DED44,Vogtlandkreis,2022-08-23,1,1,,
 DED51,"Leipzig, Kreisfreie Stadt",2022-08-12,2,2,,
 DED52,Leipzig,2022-09-24,1,1,1,
@@ -28,21 +28,21 @@ EL624,Lefkada,2022-09-20,1,1,,
 EL642,Evvoia,2022-09-23,1,1,1,
 EL644,Fthiotida,2022-08-20,1,1,,
 ES514,Tarragona,2022-08-16,2,1,1,2
-ES612,C·diz,2022-09-16,1,1,1,1
-ES613,CÛrdoba,2022-10-02,1,1,,
-FRL04,Bouches-du-RhÙne,2022-08-25,2,1,,
+ES612,C√°diz,2022-09-16,1,1,1,1
+ES613,C√≥rdoba,2022-10-02,1,1,,
+FRL04,Bouches-du-Rh√¥ne,2022-08-25,2,1,,
 FRL05,Var,2022-08-15,4,2,3,
-HR025,Osje?ko-baranjska ûupanija,2022-08-01,4,4,2,
-HR026,Vukovarsko-srijemska ûupanija,2022-08-19,2,2,1,
+HR025,Osje?ko-baranjska ≈æupanija,2022-08-01,4,4,2,
+HR026,Vukovarsko-srijemska ≈æupanija,2022-08-19,2,2,1,
 HR050,Grad Zagreb,2022-07-04,1,1,1,
-HR065,Zagreba?ka ûupanija,2022-08-25,1,1,1,1
+HR065,Zagreba?ka ≈æupanija,2022-08-25,1,1,1,1
 HU120,Pest,2022-08-05,3,3,2,
 HU221,Gy?r-Moson-Sopron,2022-08-12,2,2,,1
 HU232,Somogy,2022-08-27,1,,,
 HU312,Heves,2022-08-16,2,2,,
-HU321,Hajd˙-Bihar,2022-09-27,1,,,
-HU323,Szabolcs-Szatm·r-Bereg,2022-09-06,1,,,
-HU333,Csongr·d,2022-08-12,4,2,,
+HU321,Hajd√∫-Bihar,2022-09-27,1,,,
+HU323,Szabolcs-Szatm√°r-Bereg,2022-09-06,1,,,
+HU333,Csongr√°d,2022-08-12,4,2,,
 ITC11,Torino,2022-07-28,9,9,2,3
 ITC12,Vercelli,2022-07-11,10,10,,1
 ITC13,Biella,2022-09-10,2,2,1,
@@ -76,12 +76,12 @@ ITH42,Udine,2022-08-08,5,5,2,8
 ITH43,Gorizia,2022-08-13,1,1,,
 ITH51,Piacenza,2022-07-13,20,20,1,9
 ITH52,Parma,2022-07-19,10,10,1,9
-ITH53,Reggio nellíEmilia,2022-07-17,8,8,,2
+ITH53,Reggio nell‚ÄôEmilia,2022-07-17,8,8,,2
 ITH54,Modena,2022-07-05,12,12,,1
 ITH55,Bologna,2022-07-29,9,9,1,9
 ITH56,Ferrara,2022-07-06,19,19,2,15
 ITH57,Ravenna,2022-07-16,14,14,1,5
-ITH58,ForlÏ-Cesena,2022-07-24,3,3,,
+ITH58,Forl√¨-Cesena,2022-07-24,3,3,,
 ITI12,Lucca,2022-08-09,1,1,,
 ITI13,Pistoia,2022-07-27,2,2,,
 MK007,Severoisto?en,2022-08-09,1,,,
@@ -92,7 +92,7 @@ RO213,Ia?i,2022-08-08,3,3,,
 RO221,Br?ila,2022-08-26,2,2,,
 RO223,Constan?a,2022-07-24,5,5,,
 RO224,Gala?i,2022-08-01,3,3,,
-RO313,D‚mbovi?a,2022-08-01,2,2,,
+RO313,D√¢mbovi?a,2022-08-01,2,2,,
 RO314,Giurgiu,2022-08-11,2,2,,
 RO321,Bucure?ti,2022-07-15,21,20,,
 RO322,Ilfov,2022-08-08,5,5,,
@@ -113,28 +113,28 @@ RSG125394,Srednje-banatski,2022-07-09,7,7,,
 RSG125395,Sremski,2022-07-14,13,12,,
 RSG125396,Sumadijski,2022-07-26,30,29,,
 RSG125399,Zapadno-backi,2022-07-10,4,4,,
-SK010,Bratislavsk˝ kraj,2022-07-01,1,,,
+SK010,Bratislavsk√Ω kraj,2022-07-01,1,,,
 DE408,Havelland,,,,1,
 DE40B,Oberspreewald-Lausitz,,,,1,
 DE600,Hamburg,,,,1,1
 DE80O,Ludwigslust-Parchim,,,,1,
 DED53,Nordsachsen,,,,1,
 DEE04,Altmarkkreis Salzwedel,,,,2,
-DEE07,Bˆrde,,,,1,1
+DEE07,B√∂rde,,,,1,1
 DEE0D,Stendal,,,,1,
 DEE0E,Wittenberg,,,,1,1
 DEG01,"Erfurt, Kreisfreie Stadt",,,,1,1
-DEG0A,Kyffh‰userkreis,,,,1,
+DEG0A,Kyffh√§userkreis,,,,1,
 EL541,"Arta, Preveza",,,,2,
 ES431,Badajoz,,,,3,
-ES523,Valencia/ValËncia,,,,1,
+ES523,Valencia/Val√®ncia,,,,1,
 ES618,Sevilla,,,,2,
 FRI12,Gironde,,,,2,
 FRM02,Haute-Corse,,,,1,
-HR022,Viroviti?ko-podravska ûupanija,,,,1,
-HR024,Brodsko-posavska ûupanija,,,,1,
-HR064,Krapinsko-zagorska ûupanija,,,,1,1
-HU212,Kom·rom-Esztergom,,,,1,
+HR022,Viroviti?ko-podravska ≈æupanija,,,,1,
+HR024,Brodsko-posavska ≈æupanija,,,,1,
+HR064,Krapinsko-zagorska ≈æupanija,,,,1,1
+HU212,Kom√°rom-Esztergom,,,,1,
 ITF31,Caserta,,,,2,3
 ITG12,Palermo,,,,1,
 PT181,Alentejo Litoral,,,,1,
@@ -143,10 +143,10 @@ PT186,Alto Alentejo,,,,1,
 DE405,Barnim,,,,,1
 DE40E,Potsdam-Mittelmark,,,,,2
 DED21,"Dresden, Kreisfreie Stadt",,,,,6
-DED2D,Gˆrlitz,,,,,2
-DED2E,Meiﬂen,,,,,1
+DED2D,G√∂rlitz,,,,,2
+DED2E,Mei√üen,,,,,1
 DEE08,Burgenlandkreis,,,,,1
-ES411,¡vila,,,,,1
+ES411,√Åvila,,,,,1
 ES415,Salamanca,,,,,1
 ES513,Lleida,,,,,4
 ITC14,Verbano-Cusio-Ossola,,,,,4
