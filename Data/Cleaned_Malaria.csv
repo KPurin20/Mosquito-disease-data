@@ -1,0 +1,889 @@
+SpatialDimValueCode,Country,Year,Malaria_case_count
+PRY,Paraguay,2023,0
+SDN,Sudan,2023,1 304 528
+CAF,Central African Republic,2023,1 979 614
+IRN,Iran (Islamic Republic of),2023,10 004
+BOL,Bolivia (Plurinational State of),2023,10 297
+AGO,Angola,2023,10 496 880
+SUR,Suriname,2023,102
+ERI,Eritrea,2023,102 504
+COL,Colombia,2023,105 479
+MRT,Mauritania,2023,108 415
+BFA,Burkina Faso,2023,11 055 698
+PAN,Panama,2023,11 611
+GMB,Gambia,2023,118 459
+GNB,Guinea-Bissau,2023,120 841
+MOZ,Mozambique,2023,13 240 174
+SOM,Somalia,2023,13 688
+NAM,Namibia,2023,13 735
+VEN,Venezuela (Bolivarian Republic of),2023,130 077
+GAB,Gabon,2023,137 856
+KHM,Cambodia,2023,1384
+HTI,Haiti,2023,14 436
+SLB,Solomon Islands,2023,147 145
+ARG,Argentina,2023,16
+UGA,Uganda,2023,16 525 582
+BGD,Bangladesh,2023,16 567
+THA,Thailand,2023,16 684
+BRA,Brazil,2023,167 170
+BTN,Bhutan,2023,18
+AFG,Afghanistan,2023,180 718
+YEM,Yemen,2023,199 420
+ARM,Armenia,2023,2
+BLZ,Belize,2023,2
+BEN,Benin,2023,2 069 294
+SLE,Sierra Leone,2023,2 148 650
+TCD,Chad,2023,2 294 100
+TGO,Togo,2023,2 367 706
+GIN,Guinea,2023,2 734 149
+PAK,Pakistan,2023,2 748 549
+MDG,Madagascar,2023,2 861 319
+COM,Comoros,2023,21 079
+PER,Peru,2023,22 625
+VUT,Vanuatu,2023,2261
+IND,India,2023,227 564
+MMR,Myanmar,2023,228 567
+SEN,Senegal,2023,232 465
+STP,Sao Tome and Principe,2023,2368
+ZWE,Zimbabwe,2023,248 699
+NGA,Nigeria,2023,26 411 359
+HND,Honduras,2023,2631
+DOM,Dominican Republic,2023,271
+GUY,Guyana,2023,28 776
+COD,Democratic Republic of the Congo,2023,29 630 177
+CMR,Cameroon,2023,3 015 821
+ETH,Ethiopia,2023,3 288 168
+MLI,Mali,2023,3 517 583
+TZA,United Republic of Tanzania,2023,3 775 205
+GTM,Guatemala,2023,3053
+PRK,Democratic People's Republic of Korea,2023,3160
+GUF,French Guiana,2023,340
+MEX,Mexico,2023,342
+MYS,Malaysia,2023,3629
+CPV,Cabo Verde,2023,37
+MYT,Mayotte,2023,38
+DJI,Djibouti,2023,38 944
+NER,Niger,2023,4 486 983
+IDN,Indonesia,2023,418 533
+DZA,Algeria,2023,427
+VNM,Viet Nam,2023,453
+SSD,South Sudan,2023,5 089 688
+BDI,Burundi,2023,5 619 763
+GHA,Ghana,2023,5 900 188
+RWA,Rwanda,2023,549 326
+MWI,Malawi,2023,6 451 946
+KEN,Kenya,2023,6 819 382
+PHL,Philippines,2023,6248
+LKA,Sri Lanka,2023,63
+CRI,Costa Rica,2023,641
+SAU,Saudi Arabia,2023,6460
+BWA,Botswana,2023,651
+NPL,Nepal,2023,665
+LAO,Lao People's Democratic Republic,2023,695
+NIC,Nicaragua,2023,7008
+COG,Congo,2023,737 651
+KOR,Republic of Korea,2023,747
+ECU,Ecuador,2023,757
+GNQ,Equatorial Guinea,2023,76 921
+SLV,El Salvador,2023,8
+ZMB,Zambia,2023,8 470 695
+SWZ,Eswatini,2023,845
+TJK,Tajikistan,2023,9
+TLS,Timor-Leste,2023,9
+CIV,Cote d'Ivoire,2023,9 129 549
+PNG,Papua New Guinea,2023,952 886
+ZAF,South Africa,2023,9890
+LBR,Liberia,2023,994 782
+BLZ,Belize,2022,0
+AZE,Azerbaijan,2022,1
+SLV,El Salvador,2022,1
+TJK,Tajikistan,2022,1
+PNG,Papua New Guinea,2022,1 022 780
+MDG,Madagascar,2022,1 693 321
+PAK,Pakistan,2022,1 824 844
+ETH,Ethiopia,2022,1 837 213
+SLE,Sierra Leone,2022,1 862 886
+TCD,Chad,2022,1 882 503
+ARG,Argentina,2022,10
+THA,Thailand,2022,10 154
+BOL,Bolivia (Plurinational State of),2022,10 330
+GAB,Gabon,2022,100 290
+NAM,Namibia,2022,11 849
+BFA,Burkina Faso,2022,11 958 988
+VUT,Vanuatu,2022,1143
+GMB,Gambia,2022,119 104
+MOZ,Mozambique,2022,12 405 868
+AFG,Afghanistan,2022,125 788
+DZA,Algeria,2022,1292
+MRT,Mauritania,2022,130 720
+SLB,Solomon Islands,2022,139 810
+HTI,Haiti,2022,14 757
+ZWE,Zimbabwe,2022,141 076
+VEN,Venezuela (Bolivarian Republic of),2022,151 458
+BRA,Brazil,2022,151 530
+MMR,Myanmar,2022,157 538
+NIC,Nicaragua,2022,16 158
+ECU,Ecuador,2022,1666
+IND,India,2022,176 522
+BGD,Bangladesh,2022,18 246
+GNB,Guinea-Bissau,2022,185 156
+GTM,Guatemala,2022,1856
+ARM,Armenia,2022,2
+TLS,Timor-Leste,2022,2
+TGO,Togo,2022,2 222 943
+CAF,Central African Republic,2022,2 460 689
+GIN,Guinea,2022,2 548 231
+BEN,Benin,2022,2 653 438
+UGA,Uganda,2022,20 012 873
+COM,Comoros,2022,20 681
+GUY,Guyana,2022,20 769
+YEM,Yemen,2022,201 792
+PRK,Democratic People's Republic of Korea,2022,2136
+SOM,Somalia,2022,23 450
+LAO,Lao People's Democratic Republic,2022,2340
+NGA,Nigeria,2022,24 968 466
+MEX,Mexico,2022,244
+CPV,Cabo Verde,2022,27
+PER,Peru,2022,27 785
+MYS,Malaysia,2022,2807
+COD,Democratic Republic of the Congo,2022,29 337 562
+PRY,Paraguay,2022,3
+CMR,Cameroon,2022,3 382 676
+TZA,United Republic of Tanzania,2022,3 666 741
+SDN,Sudan,2022,3 768 163
+PHL,Philippines,2022,3245
+DOM,Dominican Republic,2022,337
+HND,Honduras,2022,3580
+SWZ,Eswatini,2022,369
+LKA,Sri Lanka,2022,37
+SEN,Senegal,2022,391 679
+STP,Sao Tome and Principe,2022,3979
+MLI,Mali,2022,4 004 297
+MWI,Malawi,2022,4 221 797
+DJI,Djibouti,2022,40 648
+KHM,Cambodia,2022,4053
+KOR,Republic of Korea,2022,428
+SAU,Saudi Arabia,2022,4319
+IDN,Indonesia,2022,443 530
+BWA,Botswana,2022,446
+VNM,Viet Nam,2022,455
+CRI,Costa Rica,2022,462
+KEN,Kenya,2022,5 232 307
+GHA,Ghana,2022,5 456 588
+SSD,South Sudan,2022,5 538 588
+NER,Niger,2022,5 648 740
+GUF,French Guiana,2022,51
+NPL,Nepal,2022,512
+IRN,Iran (Islamic Republic of),2022,5677
+COG,Congo,2022,581 329
+BTN,Bhutan,2022,6
+SUR,Suriname,2022,61
+ERI,Eritrea,2022,65 853
+PAN,Panama,2022,7173
+ZAF,South Africa,2022,7280
+COL,Colombia,2022,73 561
+LBR,Liberia,2022,760 056
+BDI,Burundi,2022,8 124 159
+ZMB,Zambia,2022,8 318 534
+CIV,Cote d'Ivoire,2022,8 408 469
+CHN,China,2022,820
+RWA,Rwanda,2022,857 228
+AGO,Angola,2022,9 221 410
+GNQ,Equatorial Guinea,2022,98 346
+BLZ,Belize,2021,0
+TLS,Timor-Leste,2021,0
+AZE,Azerbaijan,2021,1
+RWA,Rwanda,2021,1 163 670
+ETH,Ethiopia,2021,1 487 758
+TCD,Chad,2021,1 811 859
+TGO,Togo,2021,1 845 368
+MOZ,Mozambique,2021,10 106 592
+COM,Comoros,2021,10 547
+SAU,Saudi Arabia,2021,1091
+DZA,Algeria,2021,1164
+BFA,Burkina Faso,2021,12 465 543
+GTM,Guatemala,2021,1274
+SLB,Solomon Islands,2021,129 758
+ARG,Argentina,2021,13
+NAM,Namibia,2021,13 738
+ZWE,Zimbabwe,2021,133 137
+GAB,Gabon,2021,141 195
+GUF,French Guiana,2021,143
+UGA,Uganda,2021,15 144 755
+IND,India,2021,161 753
+BRA,Brazil,2021,163 585
+HND,Honduras,2021,1657
+PER,Peru,2021,18 140
+VEN,Venezuela (Bolivarian Republic of),2021,194 057
+SLE,Sierra Leone,2021,2 043 818
+CAF,Central African Republic,2021,2 223 562
+MDG,Madagascar,2021,2 365 135
+GIN,Guinea,2021,2 450 957
+BEN,Benin,2021,2 928 382
+GUY,Guyana,2021,20 850
+CPV,Cabo Verde,2021,21
+BTN,Bhutan,2021,23
+NIC,Nicaragua,2021,23 323
+NGA,Nigeria,2021,23 608 797
+CRI,Costa Rica,2021,232
+PRK,Democratic People's Republic of Korea,2021,2357
+COD,Democratic Republic of the Congo,2021,24 592 389
+ECU,Ecuador,2021,2436
+YEM,Yemen,2021,244 857
+LKA,Sri Lanka,2021,26
+STP,Sao Tome and Principe,2021,2730
+MEX,Mexico,2021,275
+DOM,Dominican Republic,2021,291
+KOR,Republic of Korea,2021,294
+SSD,South Sudan,2021,3 149 649
+CMR,Cameroon,2021,3 420 788
+MLI,Mali,2021,3 561 439
+SDN,Sudan,2021,3 960 654
+IDN,Indonesia,2021,304 607
+VUT,Vanuatu,2021,322
+THA,Thailand,2021,3279
+COG,Congo,2021,351 136
+MYS,Malaysia,2021,3688
+NPL,Nepal,2021,373
+LAO,Lao People's Democratic Republic,2021,3926
+SLV,El Salvador,2021,4
+PRY,Paraguay,2021,4
+TZA,United Republic of Tanzania,2021,4 632 180
+NER,Niger,2021,4 661 376
+KEN,Kenya,2021,4 697 886
+PAK,Pakistan,2021,400 316
+PHL,Philippines,2021,4297
+PAN,Panama,2021,4364
+KHM,Cambodia,2021,4382
+ERI,Eritrea,2021,44 036
+VNM,Viet Nam,2021,467
+MRT,Mauritania,2021,49 560
+SOM,Somalia,2021,50 648
+SEN,Senegal,2021,547 773
+DJI,Djibouti,2021,58 916
+SWZ,Eswatini,2021,581
+ZAF,South Africa,2021,5889
+GHA,Ghana,2021,6 077 543
+BDI,Burundi,2021,6 618 492
+MWI,Malawi,2021,6 863 146
+ZMB,Zambia,2021,7 159 243
+CIV,Cote d'Ivoire,2021,7 633 965
+BWA,Botswana,2021,729
+BGD,Bangladesh,2021,7294
+GMB,Gambia,2021,73 781
+COL,Colombia,2021,74 707
+PNG,Papua New Guinea,2021,755 598
+SUR,Suriname,2021,77
+MMR,Myanmar,2021,79 001
+AFG,Afghanistan,2021,86 370
+AGO,Angola,2021,9 169 267
+HTI,Haiti,2021,9513
+LBR,Liberia,2021,983 978
+BOL,Bolivia (Plurinational State of),2021,9959
+IRN,Iran (Islamic Republic of),2021,999
+AZE,Azerbaijan,2020,0
+BLZ,Belize,2020,0
+SLV,El Salvador,2020,0
+KGZ,Kyrgyzstan,2020,0
+TJK,Tajikistan,2020,0
+TKM,Turkmenistan,2020,0
+PRY,Paraguay,2020,1
+SLE,Sierra Leone,2020,1 223 397
+TGO,Togo,2020,1 737 469
+SSD,South Sudan,2020,1 805 371
+ETH,Ethiopia,2020,1 848 231
+TCD,Chad,2020,1 890 264
+MDG,Madagascar,2020,1 959 962
+CAF,Central African Republic,2020,1 980 804
+CPV,Cabo Verde,2020,10
+COG,Congo,2020,103 692
+AFG,Afghanistan,2020,105 445
+CHN,China,2020,1051
+IRN,Iran (Islamic Republic of),2020,1051
+GTM,Guatemala,2020,1058
+MOZ,Mozambique,2020,11 331 009
+BFA,Burkina Faso,2020,11 567 698
+BOL,Bolivia (Plurinational State of),2020,12 187
+GAB,Gabon,2020,127 500
+ARG,Argentina,2020,13
+NAM,Namibia,2020,13 636
+TUR,Türkiye,2020,135
+TLS,Timor-Leste,2020,14
+MRT,Mauritania,2020,144 709
+CRI,Costa Rica,2020,145
+PER,Peru,2020,15 847
+GUF,French Guiana,2020,154
+GUY,Guyana,2020,17 230
+UGA,Uganda,2020,17 475 040
+BRA,Brazil,2020,172 419
+VNM,Viet Nam,2020,1733
+PRK,Democratic People's Republic of Korea,2020,1819
+IND,India,2020,186 532
+STP,Sao Tome and Principe,2020,1944
+UZB,Uzbekistan,2020,2
+GIN,Guinea,2020,2 029 517
+RWA,Rwanda,2020,2 043 392
+BEN,Benin,2020,2 632 959
+CMR,Cameroon,2020,2 974 819
+YEM,Yemen,2020,202 671
+ECU,Ecuador,2020,2089
+NGA,Nigeria,2020,21 580 055
+HTI,Haiti,2020,22 996
+PAN,Panama,2020,2206
+VEN,Venezuela (Bolivarian Republic of),2020,232 757
+SUR,Suriname,2020,238
+COD,Democratic Republic of the Congo,2020,24 959 997
+MYT,Mayotte,2020,25
+IDN,Indonesia,2020,254 055
+SOM,Somalia,2020,27 333
+DZA,Algeria,2020,2726
+MYS,Malaysia,2020,2839
+ARM,Armenia,2020,3
+MLI,Mali,2020,3 363 800
+SDN,Sudan,2020,3 412 499
+LKA,Sri Lanka,2020,30
+NIC,Nicaragua,2020,31 763
+SWZ,Eswatini,2020,325
+LAO,Lao People's Democratic Republic,2020,3498
+SAU,Saudi Arabia,2020,3658
+MEX,Mexico,2020,369
+PAK,Pakistan,2020,372 416
+KOR,Republic of Korea,2020,390
+THA,Thailand,2020,3940
+GEO,Georgia,2020,4
+BDI,Burundi,2020,4 732 339
+NPL,Nepal,2020,430
+ZWE,Zimbabwe,2020,447 381
+SEN,Senegal,2020,452 984
+COM,Comoros,2020,4546
+NER,Niger,2020,5 235 815
+CIV,Cote d'Ivoire,2020,5 695 412
+GHA,Ghana,2020,5 879 506
+VUT,Vanuatu,2020,507
+BTN,Bhutan,2020,54
+MMR,Myanmar,2020,58 836
+TZA,United Republic of Tanzania,2020,6 346 069
+PHL,Philippines,2020,6120
+BGD,Bangladesh,2020,6130
+MWI,Malawi,2020,7 108 848
+KEN,Kenya,2020,7 285 476
+AGO,Angola,2020,7 682 739
+DJI,Djibouti,2020,73 535
+ERI,Eritrea,2020,75 756
+GMB,Gambia,2020,75 801
+ZMB,Zambia,2020,8 698 304
+COL,Colombia,2020,81 829
+ZAF,South Africa,2020,8126
+DOM,Dominican Republic,2020,829
+SLB,Solomon Islands,2020,90 830
+HND,Honduras,2020,913
+PNG,Papua New Guinea,2020,932 973
+BWA,Botswana,2020,953
+KHM,Cambodia,2020,9964
+AZE,Azerbaijan,2019,0
+KGZ,Kyrgyzstan,2019,1
+UZB,Uzbekistan,2019,1
+ETH,Ethiopia,2019,1 015 792
+LBR,Liberia,2019,1 041 800
+TCD,Chad,2019,1 910 518
+HTI,Haiti,2019,10 687
+DZA,Algeria,2019,1014
+MOZ,Mozambique,2019,11 781 516
+IRN,Iran (Islamic Republic of),2019,1190
+NIC,Nicaragua,2019,13 226
+ZAF,South Africa,2019,13 833
+DOM,Dominican Republic,2019,1314
+MRT,Mauritania,2019,135 120
+GAB,Gabon,2019,142 917
+CRI,Costa Rica,2019,149
+UGA,Uganda,2019,15 592 793
+PAN,Panama,2019,1597
+GNB,Guinea-Bissau,2019,162 635
+BGD,Bangladesh,2019,17 225
+COM,Comoros,2019,17 697
+AFG,Afghanistan,2019,174 894
+GUY,Guyana,2019,18 826
+PRK,Democratic People's Republic of Korea,2019,1869
+BRA,Brazil,2019,190 745
+ECU,Ecuador,2019,1909
+BLZ,Belize,2019,2
+PRY,Paraguay,2019,2
+GIN,Guinea,2019,2 172 260
+TGO,Togo,2019,2 406 091
+SLE,Sierra Leone,2019,2 445 392
+CAF,Central African Republic,2019,2 708 497
+GTM,Guatemala,2019,2072
+GUF,French Guiana,2019,212
+SUR,Suriname,2019,215
+SAU,Saudi Arabia,2019,2152
+YEM,Yemen,2019,216 763
+ARG,Argentina,2019,22
+NGA,Nigeria,2019,23 376 793
+COD,Democratic Republic of the Congo,2019,24 124 400
+PER,Peru,2019,24 483
+STP,Sao Tome and Principe,2019,2457
+CHN,China,2019,2487
+IDN,Indonesia,2019,250 646
+BWA,Botswana,2019,272
+TUR,Türkiye,2019,279
+SLV,El Salvador,2019,3
+TJK,Tajikistan,2019,3
+TKM,Turkmenistan,2019,3
+CMR,Cameroon,2019,3 011 133
+BEN,Benin,2019,3 084 525
+SDN,Sudan,2019,3 568 941
+MLI,Mali,2019,3 607 237
+RWA,Rwanda,2019,3 612 822
+ZWE,Zimbabwe,2019,308 173
+KHM,Cambodia,2019,32 197
+IND,India,2019,338 494
+NAM,Namibia,2019,3404
+SEN,Senegal,2019,359 246
+HND,Honduras,2019,391
+MYS,Malaysia,2019,3941
+SSD,South Sudan,2019,4 064 662
+NER,Niger,2019,4 402 685
+CPV,Cabo Verde,2019,40
+PAK,Pakistan,2019,413 533
+BTN,Bhutan,2019,42
+GNQ,Equatorial Guinea,2019,43 897
+DJI,Djibouti,2019,49 402
+VEN,Venezuela (Bolivarian Republic of),2019,492 753
+MWI,Malawi,2019,5 151 732
+KEN,Kenya,2019,5 270 358
+ZMB,Zambia,2019,5 360 020
+CIV,Cote d'Ivoire,2019,5 950 336
+GMB,Gambia,2019,53 386
+LKA,Sri Lanka,2019,54
+THA,Thailand,2019,5421
+COG,Congo,2019,545 796
+MYT,Mayotte,2019,55
+KOR,Republic of Korea,2019,559
+MMR,Myanmar,2019,56 414
+VUT,Vanuatu,2019,576
+PHL,Philippines,2019,5778
+SWZ,Eswatini,2019,589
+VNM,Viet Nam,2019,5987
+BFA,Burkina Faso,2019,6 474 757
+TZA,United Republic of Tanzania,2019,6 575 185
+GHA,Ghana,2019,6 703 687
+MEX,Mexico,2019,641
+SOM,Somalia,2019,65 375
+LAO,Lao People's Democratic Republic,2019,6692
+AGO,Angola,2019,7 530 788
+NPL,Nepal,2019,710
+GEO,Georgia,2019,8
+PNG,Papua New Guinea,2019,804 134
+COL,Colombia,2019,82 721
+SLB,Solomon Islands,2019,86 122
+TLS,Timor-Leste,2019,9
+BDI,Burundi,2019,9 983 843
+ERI,Eritrea,2019,93 878
+BOL,Bolivia (Plurinational State of),2019,9357
+MDG,Madagascar,2019,984 304
+KGZ,Kyrgyzstan,2018,0
+PRY,Paraguay,2018,0
+TKM,Turkmenistan,2018,0
+UZB,Uzbekistan,2018,0
+PAK,Pakistan,2018,1 069 052
+MDG,Madagascar,2018,1 078 140
+ETH,Ethiopia,2018,1 206 891
+GIN,Guinea,2018,1 246 598
+TCD,Chad,2018,1 364 706
+SLE,Sierra Leone,2018,1 781 855
+MOZ,Mozambique,2018,10 339 330
+BGD,Bangladesh,2018,10 523
+ZAF,South Africa,2018,10 789
+KEN,Kenya,2018,10 875 734
+GNQ,Equatorial Guinea,2018,10 926
+GHA,Ghana,2018,11 154 400
+BFA,Burkina Faso,2018,11 991 146
+DZA,Algeria,2018,1242
+NIC,Nicaragua,2018,15 934
+CRI,Costa Rica,2018,152
+GUY,Guyana,2018,17 038
+GNB,Guinea-Bissau,2018,171 075
+MRT,Mauritania,2018,175 841
+COD,Democratic Republic of the Congo,2018,18 208 440
+ECU,Ecuador,2018,1806
+COM,Comoros,2018,19 682
+AZE,Azerbaijan,2018,2
+SLV,El Salvador,2018,2
+TGO,Togo,2018,2 002 877
+BEN,Benin,2018,2 255 946
+MLI,Mali,2018,2 614 104
+NGA,Nigeria,2018,20 482 380
+CPV,Cabo Verde,2018,21
+IDN,Indonesia,2018,222 345
+YEM,Yemen,2018,233 143
+SUR,Suriname,2018,235
+TUR,Türkiye,2018,238
+BRA,Brazil,2018,244 042
+DJI,Djibouti,2018,25 319
+CHN,China,2018,2511
+ZWE,Zimbabwe,2018,266 789
+SAU,Saudi Arabia,2018,2711
+ARG,Argentina,2018,28
+STP,Sao Tome and Principe,2018,2940
+AFG,Afghanistan,2018,299 863
+NER,Niger,2018,3 358 058
+CMR,Cameroon,2018,3 550 183
+SDN,Sudan,2018,3 627 586
+GTM,Guatemala,2018,3021
+NPL,Nepal,2018,3031
+SOM,Somalia,2018,31 030
+COG,Congo,2018,324 615
+NAM,Namibia,2018,36 451
+PRK,Democratic People's Republic of Korea,2018,3698
+RWA,Rwanda,2018,4 231 883
+SSD,South Sudan,2018,4 697 506
+IND,India,2018,429 928
+PER,Peru,2018,45 619
+MYS,Malaysia,2018,4630
+PHL,Philippines,2018,4641
+MYT,Mayotte,2018,47
+ERI,Eritrea,2018,48 326
+DOM,Dominican Republic,2018,484
+BDI,Burundi,2018,5 149 436
+CIV,Cote d'Ivoire,2018,5 189 974
+ZMB,Zambia,2018,5 195 723
+MWI,Malawi,2018,5 865 476
+AGO,Angola,2018,5 928 260
+LKA,Sri Lanka,2018,52
+VEN,Venezuela (Bolivarian Republic of),2018,522 059
+BOL,Bolivia (Plurinational State of),2018,5354
+SEN,Senegal,2018,536 745
+BTN,Bhutan,2018,54
+GUF,French Guiana,2018,546
+KOR,Republic of Korea,2018,576
+BWA,Botswana,2018,585
+ARM,Armenia,2018,6
+TZA,United Republic of Tanzania,2018,6 558 257
+KHM,Cambodia,2018,62 582
+IRN,Iran (Islamic Republic of),2018,625
+COL,Colombia,2018,63 143
+VUT,Vanuatu,2018,644
+HND,Honduras,2018,653
+THA,Thailand,2018,6750
+VNM,Viet Nam,2018,6870
+BLZ,Belize,2018,7
+PAN,Panama,2018,715
+SLB,Solomon Islands,2018,72 430
+MMR,Myanmar,2018,76 518
+GAB,Gabon,2018,797 278
+TLS,Timor-Leste,2018,8
+UGA,Uganda,2018,8 522 824
+MEX,Mexico,2018,803
+GMB,Gambia,2018,88 654
+HTI,Haiti,2018,8828
+GEO,Georgia,2018,9
+LAO,Lao People's Democratic Republic,2018,9038
+PNG,Papua New Guinea,2018,940 693
+SWZ,Eswatini,2018,957
+CAF,Central African Republic,2018,995 157
+TKM,Turkmenistan,2017,0
+UZB,Uzbekistan,2017,0
+AZE,Azerbaijan,2017,1
+MDG,Madagascar,2017,1 163 807
+CAF,Central African Republic,2017,1 296 277
+GIN,Guinea,2017,1 335 323
+LBR,Liberia,2017,1 366 176
+SDN,Sudan,2017,1 642 058
+SLE,Sierra Leone,2017,1 741 512
+ETH,Ethiopia,2017,1 755 748
+TGO,Togo,2017,1 756 582
+TCD,Chad,2017,1 962 372
+BEN,Benin,2017,1 968 532
+NIC,Nicaragua,2017,10 952
+THA,Thailand,2017,11 440
+UGA,Uganda,2017,11 667 831
+SWZ,Eswatini,2017,1127
+BFA,Burkina Faso,2017,12 255 671
+VUT,Vanuatu,2017,1228
+HND,Honduras,2017,1283
+GHA,Ghana,2017,13 472 089
+GUY,Guyana,2017,13 936
+ECU,Ecuador,2017,1380
+DJI,Djibouti,2017,14 810
+YEM,Yemen,2017,143 333
+GNQ,Equatorial Guinea,2017,15 725
+GNB,Guinea-Bissau,2017,152 619
+GAB,Gabon,2017,157 639
+ARG,Argentina,2017,16
+COD,Democratic Republic of the Congo,2017,16 888 842
+MRT,Mauritania,2017,182 677
+MYT,Mayotte,2017,19
+HTI,Haiti,2017,19 135
+BWA,Botswana,2017,1911
+ARM,Armenia,2017,2
+KGZ,Kyrgyzstan,2017,2
+PAK,Pakistan,2017,2 209 708
+MLI,Mali,2017,2 456 639
+NER,Niger,2017,2 761 268
+NGA,Nigeria,2017,20 219 268
+TUR,Türkiye,2017,214
+STP,Sao Tome and Principe,2017,2241
+BRA,Brazil,2017,238 517
+CRI,Costa Rica,2017,25
+IDN,Indonesia,2017,261 617
+CHN,China,2017,2672
+BGD,Bangladesh,2017,29 247
+ZAF,South Africa,2017,29 615
+COG,Congo,2017,297 652
+TJK,Tajikistan,2017,3
+CMR,Cameroon,2017,3 607 898
+TLS,Timor-Leste,2017,30
+SAU,Saudi Arabia,2017,3151
+NPL,Nepal,2017,3610
+SOM,Somalia,2017,37 156
+COM,Comoros,2017,3896
+DOM,Dominican Republic,2017,398
+SEN,Senegal,2017,398 377
+SLV,El Salvador,2017,4
+SSD,South Sudan,2017,4 054 795
+CIV,Cote d'Ivoire,2017,4 152 065
+AGO,Angola,2017,4 500 221
+MYS,Malaysia,2017,4114
+GTM,Guatemala,2017,4124
+AFG,Afghanistan,2017,413 536
+DZA,Algeria,2017,453
+CPV,Cabo Verde,2017,457
+BOL,Bolivia (Plurinational State of),2017,4587
+PRK,Democratic People's Republic of Korea,2017,4626
+PRY,Paraguay,2017,5
+MWI,Malawi,2017,5 936 348
+RWA,Rwanda,2017,5 940 533
+TZA,United Republic of Tanzania,2017,5 988 136
+BTN,Bhutan,2017,51
+KOR,Republic of Korea,2017,515
+VEN,Venezuela (Bolivarian Republic of),2017,525 897
+PER,Peru,2017,55 367
+ERI,Eritrea,2017,55 588
+SUR,Suriname,2017,551
+COL,Colombia,2017,56 515
+LKA,Sri Lanka,2017,57
+GUF,French Guiana,2017,597
+ZMB,Zambia,2017,6 054 679
+NAM,Namibia,2017,66 141
+SLB,Solomon Islands,2017,68 712
+PHL,Philippines,2017,6806
+PAN,Panama,2017,689
+KHM,Cambodia,2017,76 804
+MEX,Mexico,2017,765
+ZWE,Zimbabwe,2017,767 069
+KEN,Kenya,2017,8 462 076
+GMB,Gambia,2017,83 668
+VNM,Viet Nam,2017,8411
+LAO,Lao People's Democratic Republic,2017,8435
+IND,India,2017,844 558
+MMR,Myanmar,2017,85 019
+PNG,Papua New Guinea,2017,892 235
+BLZ,Belize,2017,9
+GEO,Georgia,2017,9
+BDI,Burundi,2017,9 259 694
+MOZ,Mozambique,2017,9 981 277
+IRN,Iran (Islamic Republic of),2017,939
+TKM,Turkmenistan,2016,0
+UZB,Uzbekistan,2016,0
+AZE,Azerbaijan,2016,1
+TJK,Tajikistan,2016,1
+IND,India,2016,1 087 285
+MDG,Madagascar,2016,1 216 077
+TCD,Chad,2016,1 402 215
+CAF,Central African Republic,2016,1 607 079
+BEN,Benin,2016,1 667 005
+TGO,Togo,2016,1 746 334
+SLE,Sierra Leone,2016,1 845 727
+ETH,Ethiopia,2016,1 962 996
+PRY,Paraguay,2016,10
+MOZ,Mozambique,2016,10 373 341
+VNM,Viet Nam,2016,10 446
+NPL,Nepal,2016,10 687
+GUY,Guyana,2016,11 108
+GHA,Ghana,2016,11 451 328
+MMR,Myanmar,2016,110 146
+CRI,Costa Rica,2016,13
+DJI,Djibouti,2016,13 822
+SLV,El Salvador,2016,14
+UGA,Uganda,2016,14 008 604
+ECU,Ecuador,2016,1424
+YEM,Yemen,2016,145 627
+GNQ,Equatorial Guinea,2016,147 714
+LAO,Lao People's Democratic Republic,2016,15 509
+BRA,Brazil,2016,152 160
+GNB,Guinea-Bissau,2016,156 523
+COD,Democratic Republic of the Congo,2016,16 888 006
+GAB,Gabon,2016,161 508
+GMB,Gambia,2016,164 421
+THA,Thailand,2016,17 800
+MRT,Mauritania,2016,171 348
+COM,Comoros,2016,1734
+ARM,Armenia,2016,2
+PAK,Pakistan,2016,2 126 497
+LBR,Liberia,2016,2 343 410
+MLI,Mali,2016,2 465 914
+CMR,Cameroon,2016,2 615 750
+TUR,Türkiye,2016,209
+HTI,Haiti,2016,21 430
+IDN,Indonesia,2016,218 450
+STP,Sao Tome and Principe,2016,2238
+NGA,Nigeria,2016,23 956 669
+MYS,Malaysia,2016,2302
+NAM,Namibia,2016,24 869
+VUT,Vanuatu,2016,2531
+GUF,French Guiana,2016,258
+BGD,Bangladesh,2016,27 737
+MYT,Mayotte,2016,28
+RWA,Rwanda,2016,3 380 568
+CIV,Cote d'Ivoire,2016,3 754 504
+VEN,Venezuela (Bolivarian Republic of),2016,301 466
+CHN,China,2016,3151
+SWZ,Eswatini,2016,317
+SUR,Suriname,2016,332
+SEN,Senegal,2016,356 272
+COG,Congo,2016,374 252
+ZWE,Zimbabwe,2016,384 029
+AGO,Angola,2016,4 301 146
+HND,Honduras,2016,4097
+LKA,Sri Lanka,2016,41
+KHM,Cambodia,2016,43 380
+DZA,Algeria,2016,432
+ZAF,South Africa,2016,4323
+AFG,Afghanistan,2016,436 017
+BLZ,Belize,2016,5
+MWI,Malawi,2016,5 165 386
+NER,Niger,2016,5 166 336
+ZMB,Zambia,2016,5 976 192
+GTM,Guatemala,2016,5001
+PRK,Democratic People's Republic of Korea,2016,5113
+SAU,Saudi Arabia,2016,5382
+SSD,South Sudan,2016,555 957
+BOL,Bolivia (Plurinational State of),2016,5553
+PER,Peru,2016,56 671
+SOM,Somalia,2016,58 021
+MEX,Mexico,2016,596
+KGZ,Kyrgyzstan,2016,6
+TZA,United Republic of Tanzania,2016,6 624 054
+NIC,Nicaragua,2016,6284
+PHL,Philippines,2016,6690
+KOR,Republic of Korea,2016,673
+GEO,Georgia,2016,7
+IRN,Iran (Islamic Republic of),2016,705
+BWA,Botswana,2016,725
+BTN,Bhutan,2016,74
+DOM,Dominican Republic,2016,755
+CPV,Cabo Verde,2016,77
+PNG,Papua New Guinea,2016,785 120
+KEN,Kenya,2016,8 647 072
+BDI,Burundi,2016,8 902 503
+ERI,Eritrea,2016,80 450
+PAN,Panama,2016,811
+SLB,Solomon Islands,2016,84 514
+COL,Colombia,2016,86 407
+SDN,Sudan,2016,897 194
+ARG,Argentina,2016,9
+BFA,Burkina Faso,2016,9 799 818
+TLS,Timor-Leste,2016,95
+GIN,Guinea,2016,992 146
+TKM,Turkmenistan,2015,0
+UZB,Uzbekistan,2015,0
+AZE,Azerbaijan,2015,1
+KGZ,Kyrgyzstan,2015,1
+SDN,Sudan,2015,1 102 186
+IND,India,2015,1 169 261
+MDG,Madagascar,2015,1 366 205
+TCD,Chad,2015,1 490 556
+SLE,Sierra Leone,2015,1 569 606
+TGO,Togo,2015,1 610 711
+LBR,Liberia,2015,1 835 238
+BTN,Bhutan,2015,104
+YEM,Yemen,2015,104 831
+ARG,Argentina,2015,11
+MYT,Mayotte,2015,11
+PHL,Philippines,2015,11 445
+GHA,Ghana,2015,11 678 306
+NAM,Namibia,2015,12 050
+COD,Democratic Republic of the Congo,2015,12 538 805
+BLZ,Belize,2015,13
+UGA,Uganda,2015,13 696 889
+VEN,Venezuela (Bolivarian Republic of),2015,137 996
+GNQ,Equatorial Guinea,2015,15 142
+GNB,Guinea-Bissau,2015,150 085
+NGA,Nigeria,2015,16 702 261
+BRA,Brazil,2015,169 390
+HTI,Haiti,2015,17 583
+MMR,Myanmar,2015,182 465
+NPL,Nepal,2015,19 171
+VNM,Viet Nam,2015,19 252
+MRT,Mauritania,2015,195 740
+ARM,Armenia,2015,2
+BEN,Benin,2015,2 042 684
+ETH,Ethiopia,2015,2 174 707
+CMR,Cameroon,2015,2 381 592
+RWA,Rwanda,2015,2 505 794
+STP,Sao Tome and Principe,2015,2058
+COM,Comoros,2015,2101
+IDN,Indonesia,2015,217 025
+GAB,Gabon,2015,217 287
+TUR,Türkiye,2015,224
+NIC,Nicaragua,2015,2308
+MYS,Malaysia,2015,2311
+GMB,Gambia,2015,255 403
+SAU,Saudi Arabia,2015,2620
+COG,Congo,2015,264 574
+CPV,Cabo Verde,2015,27
+THA,Thailand,2015,27 385
+AGO,Angola,2015,3 254 270
+MLI,Mali,2015,3 543 576
+CIV,Cote d'Ivoire,2015,3 606 725
+PAK,Pakistan,2015,3 778 090
+SSD,South Sudan,2015,3 789 475
+NER,Niger,2015,3 937 742
+ERI,Eritrea,2015,32 974
+CHN,China,2015,3279
+BWA,Botswana,2015,346
+HND,Honduras,2015,3555
+LKA,Sri Lanka,2015,36
+LAO,Lao People's Democratic Republic,2015,36 078
+SUR,Suriname,2015,376
+AFG,Afghanistan,2015,383 008
+SOM,Somalia,2015,39 169
+BGD,Bangladesh,2015,39 719
+MWI,Malawi,2015,4 933 416
+GUF,French Guiana,2015,434
+SWZ,Eswatini,2015,475
+ZWE,Zimbabwe,2015,484 794
+ZAF,South Africa,2015,4959
+TJK,Tajikistan,2015,5
+ZMB,Zambia,2015,5 094 123
+BDI,Burundi,2015,5 512 414
+SLB,Solomon Islands,2015,50 916
+SEN,Senegal,2015,502 084
+MEX,Mexico,2015,551
+GTM,Guatemala,2015,5540
+PAN,Panama,2015,562
+GEO,Georgia,2015,6
+PNG,Papua New Guinea,2015,620 785
+COL,Colombia,2015,65 453
+PER,Peru,2015,66 609
+DOM,Dominican Republic,2015,661
+KHM,Cambodia,2015,68 109
+ECU,Ecuador,2015,686
+BOL,Bolivia (Plurinational State of),2015,6907
+KOR,Republic of Korea,2015,692
+PRK,Democratic People's Republic of Korea,2015,7409
+DZA,Algeria,2015,747
+IRN,Iran (Islamic Republic of),2015,799
+CRI,Costa Rica,2015,8
+PRY,Paraguay,2015,8
+KEN,Kenya,2015,8 219 230
+BFA,Burkina Faso,2015,8 286 453
+MOZ,Mozambique,2015,8 306 986
+TZA,United Republic of Tanzania,2015,8 406 354
+TLS,Timor-Leste,2015,80
+VUT,Vanuatu,2015,845
+GIN,Guinea,2015,895 016
+SLV,El Salvador,2015,9
+CAF,Central African Republic,2015,953 535
+DJI,Djibouti,2015,9557
+GUY,Guyana,2015,9984
