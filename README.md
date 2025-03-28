@@ -29,7 +29,7 @@ This repository contains datasets related to **mosquito-borne diseases** (West N
 ## **📊 Repository Contents**  
 - **CSV/XLSX Files**: Processed datasets containing mosquito-borne disease counts and climate data.  
 - **SQL Database**: The data has been structured and stored in an **Azure SQL database** for analysis.  
-- **Python Scripts (Coming Soon)**: Scripts for cleaning, transforming, and analyzing the data.  
+- **Python Scripts**: Scripts for cleaning, transforming, and analyzing the data.  
 
 ---
 
